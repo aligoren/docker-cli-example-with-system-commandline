@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "docker-cli-example-with-system-commandline": {
+      "commandName": "Project",
+      "commandLineArgs": "--image-name redis --count 2"
+    }
+  }
+}
